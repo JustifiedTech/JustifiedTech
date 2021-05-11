@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kcslim
 - 👀 I’m interested in Web and mobile development
-- 🌱 I’m currently learning MERN STACK
+- 🌱 I’m currently learning MERN STACK and flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
