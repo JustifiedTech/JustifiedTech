@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Kelechi Brian Obasi A.K.A @JustifiedTech
-- 👀 I’m interested in mobile, backend development and Web3 development 
+- 👀 I’m interested in mobile, backend and Web3 technologies
 - 🌱 I’m experienced in building mobile apps using Dart and Flutter framework and Swift, SwiftUI and UIKit for Native iOS applications
 - 💞️ I’m looking to collaborate on large scale and life changing projects that will solve different problems in our today's world
 - 📫 How to reach me on LinkedIn on https://www.linkedin.com/in/justifiedtech/
